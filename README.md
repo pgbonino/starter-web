@@ -11,4 +11,4 @@ As stated above, this is just a sample with training  purposes. No deployment is
 This is a simple web project. No need to contribute. Fork it, anyway.
 
 ### Copyright
-2019. Training sample copyright notice.
+2019. Training sample copyright notice. All rights reserved.
