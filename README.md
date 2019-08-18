@@ -8,3 +8,6 @@ this is a sample to show different parts of the Git repository and varios comman
 As stated above, this is just a sample with training  purposes. No deployment is needed.
 ## How To Cobntribute
 This is a simple web project. No need to contribute.
+
+### Copyright
+2019. Training sample copyright notice.
